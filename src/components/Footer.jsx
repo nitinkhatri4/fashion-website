@@ -20,8 +20,6 @@ function Footer() {
         </h1>
         <div className="dets font-[Neue_Montreal'] mt-10">
           <h1 className="text-2xl underline mb-4">Social links:</h1>
-          {/* <a className='block mb-1 hover:underline text-xl font-light' href="https://m.facebook.com/profile.php?id=100030209521059&name=xhp_nt__fb__action__open_user">Facebook</a> */}
-          {/* <a className='block mb-1 hover:underline text-xl font-light' href="https://www.instagram.com/__munwwar__/?next=%2F">Instagram</a> */}
           <a
             className="block mb-1 hover:underline text-xl font-light"
             href="https://www.linkedin.com/in/nitin-khatri-464a9023a/"
